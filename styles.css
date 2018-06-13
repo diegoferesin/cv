@@ -1,0 +1,131 @@
+.debug *{
+    box-shadow: 0 0 1px red;
+}
+
+.info {
+    float: left;
+    width: 30%;
+    box-sizing: border-box;   
+    padding: 15px; 
+    /* background-color: #6adf6a; */
+    background-image: linear-gradient(-225deg, rgb(21, 18, 243) 0%, rgb(33, 236, 175) 48%, #5fea4c 100%);
+    text-align: center;
+    align-content: center;
+    font-family: Roboto Mono;
+    border: 1px solid #212564;
+    color: #ffffff;
+}
+
+p {
+    text-align: left;
+}
+
+.estudiosexperiencia {
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+    padding: 15px;
+    background-image: linear-gradient(-225deg, rgb(95, 234, 76) 0%, rgb(33, 236, 175) 48%, rgb(21, 18, 243) 100%);
+    font-family: Roboto Mono;
+    border: 1px solid #212564;
+    color: #ffffff;
+}
+
+li {
+    list-style: none;
+}
+
+h1, h2 {
+    font-family: Playfair Display;
+    letter-spacing: 0.3em;
+    font-style: italic;
+    font-weight: 800;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+
+h2 {
+    font-size: 2.2em;
+    margin: 10px 0px 10px 0px;
+    text-align: right;
+    border: 1px solid white;
+    background-image: linear-gradient(-225deg, rgb(21, 18, 243) 0%, rgb(33, 236, 175) 48%, #5fea4c 100%);
+}
+
+h3 {
+    margin: 0;
+    letter-spacing: 0.2em;
+}
+
+/* img {
+    width: 100%;
+    box-shadow: 4px 4px 0px white;
+    margin: 2%;
+    box-sizing: border-box;
+} */
+
+hr {
+    color: #ffffff;
+    border-style: solid;
+    border-bottom-width: 0.8px;
+}
+
+.lilistadodeproyectos {
+    list-style: none;
+}
+
+.jom {
+    position: fixed;
+    bottom: 20px;;
+    right: 20px;
+    text-align: right;
+    font-size: 1.5em;
+    font-family: Roboto Mono;
+    background-image: linear-gradient(-225deg, rgb(21, 18, 243) 0%, rgb(33, 236, 175) 48%, #5fea4c 100%);
+    border: 1px solid white;
+    padding: 5px;
+}
+
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.portfolio {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    background-image: linear-gradient(-225deg, rgb(95, 234, 76) 0%, rgb(33, 236, 175) 48%, rgb(21, 18, 243) 100%);
+    font-family: Roboto Mono;
+    border: 1px solid #212564;
+    color: #ffffff;
+}
+
+.semitransparente {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 15px;
+    color: rgb(21, 18, 243);
+    border: 1px solid rgb(21, 18, 243);
+}
+
+.semitransparente2 {
+    padding: 15px;
+    color: rgb(21, 18, 243);
+    border: 1px solid rgb(21, 18, 243);
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(33, 236, 175);
+    width: 40%;
+}
+
+a:hover {
+    color: #212564;
+    background-color: white;
+}
+/* es comentario en aca
