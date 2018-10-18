@@ -1,4 +1,4 @@
-## CV On line - Proyecto N° 1 de la Carrera de Desarrollo Web en Acámica
+## CV On line - Proyecto N° 1 de la Carrera de Desarrollo Web Full Stack en Acámica
 
 https://www.acamica.com/desarrollo-web-full-stack
 
